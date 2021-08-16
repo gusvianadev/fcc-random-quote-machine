@@ -3,7 +3,7 @@
 ## Summary
 This app was created using the create-react-app tool. It's one of the five freeCodeCamp's Front End projects using libraries and frameworks
 
-It's a basic Random Quote Machine that let's you tweet the current quote or get a new one.
+It's a basic Random Quote Machine that lets you tweet the current quote or get a new one.
 
 ## Install and Run
 1. Clone down this repository. You will need `node` and `npm` installed globally on your computer.
