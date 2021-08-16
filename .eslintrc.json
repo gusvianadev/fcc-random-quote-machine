@@ -6,7 +6,8 @@
 	"extends": [
 		"eslint:recommended",
 		"plugin:react/recommended",
-		"airbnb"
+		"airbnb",
+		"prettier"
 	],
 	"parserOptions": {
 		"ecmaFeatures": {
@@ -41,11 +42,6 @@
 		"react/jsx-filename-extension": [
 			"warn",
 			{ "extensions": [".js", ".jsx"] }
-		],
-		"comma-dangle": ["error", {
-			"imports": "never",
-			"exports": "never",
-			"functions": "never"
-		}]
+		]
 	}
 }
