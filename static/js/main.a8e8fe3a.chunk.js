@@ -1,2 +1,0 @@
-(this["webpackJsonpfcc-random-quote-machine"]=this["webpackJsonpfcc-random-quote-machine"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(1),o=c.n(n),r=c(3),i=c.n(r),s=c(0),a=function(){return Object(s.jsx)("div",{})};i.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.a8e8fe3a.chunk.js.map
