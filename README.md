@@ -1,4 +1,4 @@
-# Calculator
+# Random Quote Machine
 
 ## Summary
 This app was created using the create-react-app tool. It's one of the five freeCodeCamp's Front End projects using libraries and frameworks
